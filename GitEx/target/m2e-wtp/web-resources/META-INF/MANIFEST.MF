@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: admin
+<<<<<<< HEAD
 Build-Jdk: 15.0.2
+=======
+Build-Jdk: 1.8.0_271
+>>>>>>> refs/remotes/origin/master
 Created-By: Maven Integration for Eclipse
 
